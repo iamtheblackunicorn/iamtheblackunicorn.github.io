@@ -1,6 +1,6 @@
 # The Black Unicorn :unicorn: :black_heart:
 
-## About :books
+## About :books:
 
 This website is my personal website. On it, you can find information about me and a complete portfolio of all my "flagship" projects.
 
