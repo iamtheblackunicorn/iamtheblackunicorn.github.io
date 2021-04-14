@@ -8,6 +8,7 @@ title: "Links and Info"
 - Upwork: [Visit]()
 - GitHub: [Visit](https://github.com/iamtheblackunicorn)
 - Twitter: [Visit](https://twitter.com/blvckuncrn)
+- My Google Play Developer profile: [Visit](https://play.google.com/store/apps/dev?id=5142030120720845233)
 
 ## About this website
 
