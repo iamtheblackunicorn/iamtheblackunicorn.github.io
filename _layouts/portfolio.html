@@ -12,7 +12,7 @@
     <li class="projects">
      <img src="{{ item.image }}"/>
      <span class="subtitle">
-      {{ item.description }}
+      {{ item.name }}: <a class="subtitle" href="{{ item.url }}">{{ site.viewingText }}</a>
      </span>
     </li>
    {% endfor %}

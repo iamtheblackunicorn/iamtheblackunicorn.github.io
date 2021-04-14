@@ -129,10 +129,13 @@ a.nav:hover {
 /* GENERAL "WIDGETS" START*/
 
 img {
-  width: 250px;
+  width: 100px;
   display: block;
-  padding: 20px;
+  padding: 7px;
   margin: 0 auto;
+  border: 2px solid var(--accent-color);
+  border-radius: 25px;
+  margin-bottom: 20px;
 }
 
 /* GENERAL "WIDGETS" END*/
@@ -223,9 +226,19 @@ li.projects {
 span.subtitle {
   display: inline-block;
   text-align: center;
-  font-size: 25px;
+  font-size: 17px;
   color: var(--accent-color);
   font-family: 'Lobster';
+}
+
+a.subtitle {
+  text-align: center;
+  font-size: 17px;
+  color: var(--accent-color);
+  font-family: 'Lobster';
+}
+a.subtitle:hover {
+  color: var(--tertiary);
 }
 
 /* PROJECT UL END */
@@ -308,7 +321,7 @@ p.dlTitle {
   span.subtitle {
     display: inline-block;
     text-align: center;
-    font-size: 19px;
+    font-size: 17px;
     color: var(--accent-color);
     font-family: 'Lobster';
   }
