@@ -6,7 +6,7 @@
 
 ## About :books:
 
-This website is my personal website. On it, you can find information about me and a complete portfolio of all my "flagship" projects.
+This website is my personal website. On it, you can find information about me and a complete portfolio of all my projects.
 
 ## NOTE :scroll:
 
