@@ -1,9 +1,8 @@
 name: "The Black Unicorn"
-logo: ""
-menuTitle: ""
-description: ""
-baseurl: ""
-url: ""
-theme: minima
+logo: "/assets/images/logo.svg"
+menuTitle: "Menu"
+description: "My personal website."
+baseurl: "/"
+url: "https://iamtheblackunicorn.github.io"
 plugins:
   - jekyll-feed
