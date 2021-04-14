@@ -138,6 +138,19 @@ img {
   margin-bottom: 20px;
 }
 
+ul {
+  display: block;
+  text-align:left;
+  list-style: none;
+}
+
+li {
+  color: var(--accent-color);
+  font-size: 29px;
+  font-family: 'Lobster';
+  padding: 20px;
+}
+
 /* GENERAL "WIDGETS" END*/
 
 /* PAGE HEADER START */
@@ -264,6 +277,8 @@ button.download{
   margin: 10px;
   transition-duration: 0.6s;
   border-radius: 25px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 button.download:hover{
@@ -310,6 +325,12 @@ p.dlTitle {
     font-size: 21px;
   }
   p {
+    font-size: 19px;
+  }
+  a {
+    font-size: 19px;
+  }
+  li {
     font-size: 19px;
   }
   a.menuLink {

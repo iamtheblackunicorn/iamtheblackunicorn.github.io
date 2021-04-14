@@ -7,10 +7,10 @@
   {% include breaker.html %}
   <h2 class="pageHeading">{{ page.title }}</h2>
   {% include breaker.html %}
-  {% for itme in site.data.downloads %}
+  {% for item in site.data.downloads %}
    <div class="downloads">
     <p class="dlTitle">{{ item.name }}</p>
-    <button class="download">{{ item.url }}</button>
+    <button class="download" onclick="window.location.href='{{ item.url }}'">{{ site.downloadButtonText }}</button>
    </div>
    {% include breaker.html %}
   {% endfor %}

@@ -3,6 +3,7 @@ logo: "/assets/images/logo/logo.svg"
 menuTitle: "Menu"
 description: "My personal website."
 viewingText: "Visit"
+downloadButtonText: "Download"
 
 57x57: "/assets/images/favicon/apple-icon-57x57.png"
 60x60: "/assets/images/favicon/apple-icon-60x60.png"
