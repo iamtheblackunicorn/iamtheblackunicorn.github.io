@@ -132,6 +132,7 @@ img {
   width: 250px;
   display: block;
   padding: 20px;
+  margin: 0 auto;
 }
 
 /* GENERAL "WIDGETS" END*/
