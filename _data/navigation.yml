@@ -1,0 +1,4 @@
+- name: "HOME"
+  link: "/"
+- name: "PORTFOLIO"
+  link: "/content/portfolio"

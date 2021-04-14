@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+ {% include header.html %}
+ <body>
+  {% include title.html %}
+  {% include breaker.html %}
+  {% include breaker.html %}
+  <h2 class="pageHeading">{{ page.title }}</h2>
+  {% include breaker.html %}
+  {% for itme in site.data.downloads %}
+   <div class="downloads">
+    <p class="dlTitle">{{ item.name }}</p>
+    <button class="download">{{ item.url }}</button>
+   </div>
+   {% include breaker.html %}
+  {% endfor %}
+ </body>
+ {% include javascript.html %}
+</html>

@@ -1,0 +1,21 @@
+{
+  {% for post in site.posts %}
+   {% if site.posts.last == post %}
+    "{{ post.title }}":[
+     "{{ post.date }}",
+     "{{ post.description }}",
+     "{{ post.content | strip_html | strip_newlines }}",
+     "{{ site.url }}{{ post.url }}",
+     "{{ site.url }}{{ post.banner }}"
+    ]
+   {% else %}
+    "{{ post.title }}":[
+     "{{ post.date }}",
+     "{{ post.description }}",
+     "{{ post.content | strip_html | strip_newlines }}",
+     "{{ site.url }}{{ post.url }}",
+     "{{ site.url }}{{ post.banner }}"
+    ],
+   {% endif %}
+  {% endfor %}
+}

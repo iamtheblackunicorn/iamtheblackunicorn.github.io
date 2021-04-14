@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ {% include header.html %}
+ <body>
+  {% include title.html %}
+  {% include breaker.html %}
+  {% include breaker.html %}
+  <h2 class="pageHeading">{{ page.title }}</h2>
+  {% include breaker.html %}
+  <ul class="projects">
+   {% for item in site.data.portfolio %}
+    <li class="projects">
+     <img src="{{ item.image }}"/>
+     <span class="subtitle">
+      {{ item.description }}
+     </span>
+    </li>
+   {% endfor %}
+   </ul>
+   {% include breaker.html %}
+  </body>
+ {% include javascript.html %}
+</html>

@@ -1,0 +1,9 @@
+_site
+.jekyll-cache
+.sass-cache
+*.lock
+*.gem
+.bundle
+.bundler
+vendor
+.DS_Store

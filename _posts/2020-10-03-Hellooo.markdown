@@ -1,0 +1,20 @@
+---
+layout: "page"
+title: "Hello!"
+description: "A greeting to all of you!"
+banner: "/assets/images/posts/postOne.png"
+---
+
+### Who am I?
+Simple, this one. I'm a student from Vienna, Austria, studying English literature. I am also a self-taught DJ, developer, designer, musician and producer. This wooonderful website you see, I wrote and published on GitHub pages using the Ruby framework, Jekyll. So what on earth, I hear you asking, do I have a blog for?
+
+### Yeah, about that...
+I actually wanted to write about all my most controversial thoughts but decided that I'll probably get stoned (not high, literally stoned) by the woke #BLM folks on Twitter or locked up by some government for publishing state secrets. So, realising that free speech has been strangled like a chicken for the slaughter, I decided that I'm just gonna dump all my thoughts which won't get me stoned or locked up, right here. My content on here is derpy, cute and kind of silly intentionally, try and take it with a pinch of salt! >: ) I'll try to post every Friday at 12:00 p.m. GMT. That's it, have a nice day, stay tuned, byeee.
+
+### About this blog...
+
+If you are also a developer, then you can check out the source code [here](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io). This site is actually a full-blown Jekyll theme. Think of it like WordPress theme but not for WordPress, for Jekyll.
+
+### Wanna socialisee?
+
+Sure thing! (I don't bite! Or maybe I do, who knows.) Click on the main heading. ;)

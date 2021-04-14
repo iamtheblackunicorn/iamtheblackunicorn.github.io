@@ -1,0 +1,9 @@
+name: "The Black Unicorn"
+logo: ""
+menuTitle: ""
+description: ""
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
