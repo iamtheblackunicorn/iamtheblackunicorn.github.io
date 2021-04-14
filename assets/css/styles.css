@@ -107,6 +107,18 @@ li.nav {
   font-family: 'Lobster';
 }
 
+a.nav {
+  font-size: 29px;
+  color: var(--accent-color);
+  font-family: 'Ostrich';
+  transition-duration: 0.6s;
+  cursor: crosshair;
+  text-decoration: none;
+}
+a.nav:hover {
+  color: var(--tertiary);
+}
+
 /* NAV SECTION END */
 
 /* HEADER SECTION END */

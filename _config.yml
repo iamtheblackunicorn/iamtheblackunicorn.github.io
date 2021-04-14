@@ -1,5 +1,5 @@
 name: "The Black Unicorn"
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/logo/logo.svg"
 menuTitle: "Menu"
 description: "My personal website."
 baseurl: "/"
