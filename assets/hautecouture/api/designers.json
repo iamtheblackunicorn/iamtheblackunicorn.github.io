@@ -1,0 +1,22 @@
+{
+  "Karl Lagerfeld":[
+    "https://blckunicorn.art/assets/hautecouture/images/lagerfeld.jpg",
+    "description"
+    "https://www.karl.com/",
+  ],
+  "Coco Chanel":[
+    "https://blckunicorn.art/assets/hautecouture/images/chanel.png",
+    "description",
+    "https://www.chanel.com",
+  ],
+  "Louis Vuitton":[
+    "https://blckunicorn.art/assets/hautecouture/images/LouisVuitton.jpg",
+    "description",
+    "https://www.louisvuitton.com/"
+  ],
+  "Yves Saint Lauren":[
+    "https://blckunicorn.art/assets/hautecouture/images/ysl.jpg",
+    "description",
+    "https://www.ysl.com",
+  ]
+}
