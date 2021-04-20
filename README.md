@@ -1,6 +1,6 @@
 # The Black Unicorn :unicorn: :black_heart:
 
-[![GitHub CI](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions/workflows/dart.yml/badge.svg)](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions)
+[![GitHub CI](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions)
 
 *The Black Unicorn's home!* :unicorn:
 
