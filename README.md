@@ -1,6 +1,6 @@
 # The Black Unicorn :unicorn: :black_heart:
 
-[![Build Status](https://travis-ci.com/iamtheblackunicorn/iamtheblackunicorn.github.io.svg?branch=main)](https://travis-ci.com/iamtheblackunicorn/iamtheblackunicorn.github.io)
+[![GitHub CI](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions/workflows/dart.yml/badge.svg)](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions)
 
 *The Black Unicorn's home!* :unicorn:
 
