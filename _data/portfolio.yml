@@ -25,3 +25,6 @@
 - name: "Haute Couture"
   image: "/assets/screenies/hautecouture.jpg"
   url: "https://github.com/iamtheblackunicorn/hautecouture"
+- name: "Sec Info"
+  image: "/assets/screenies/secinfo.jpg"
+  url: "https://github.com/iamtheblackunicorn/secinfo"
