@@ -41,6 +41,9 @@
     },
     {
       "The Dangerous":"https://blckunicorn.art/assets/buwa/stable/images/28.jpg"
+    },
+    {
+      "The Models":"https://blckunicorn.art/assets/buwa/stable/images/66.jpg"
     }
   ],
   "The Vistas":[
@@ -123,6 +126,15 @@
     },
     {
       "The Golden":"https://blckunicorn.art/assets/buwa/stable/images/30.jpg"
+    },
+    {
+      "The Bosses":"https://blckunicorn.art/assets/buwa/stable/images/67.jpg"
+    },
+    {
+      "The Confident":"https://blckunicorn.art/assets/buwa/stable/images/68.jpg"
+    },
+    {
+      "The Designers":"https://blckunicorn.art/assets/buwa/stable/images/84.jpg"
     }
   ],
   "The Mobile":[
@@ -167,6 +179,12 @@
     },
     {
       "The Quiet":"https://blckunicorn.art/assets/buwa/stable/images/40.jpg"
+    },
+    {
+      "The Fast":"https://blckunicorn.art/assets/buwa/stable/images/73.jpg"
+    },
+    {
+      "The Speedy":"https://blckunicorn.art/assets/buwa/stable/images/90.jpg"
     }
   ],
   "The Cute":[
@@ -204,6 +222,67 @@
     },
     {
       "The Ultra-Happy":"https://blckunicorn.art/assets/buwa/stable/images/24.png"
+    },
+    {
+      "The Nether":"https://blckunicorn.art/assets/buwa/stable/images/85.jpg"
+    },
+    {
+      "The Creepy":"https://blckunicorn.art/assets/buwa/stable/images/86.jpg"
+    },
+    {
+      "The Humble":"https://blckunicorn.art/assets/buwa/stable/images/80.jpg"
+    },
+    {
+      "The Isolated":"https://blckunicorn.art/assets/buwa/stable/images/81.jpg"
+    }
+  ],
+  "The Crazy":[
+    {
+      "The Teasers":"https://blckunicorn.art/assets/buwa/stable/images/77.jpg"
+    },
+    {
+      "The Cute-Weird":"https://blckunicorn.art/assets/buwa/stable/images/69.jpg"
+    },
+    {
+      "The Glowing":"https://blckunicorn.art/assets/buwa/stable/images/88.jpg"
+    },
+    {
+      "The Wonderful":"https://blckunicorn.art/assets/buwa/stable/images/87.jpg"
+    },
+    {
+      "The Iconic":"https://blckunicorn.art/assets/buwa/stable/images/89.jpg"
+    }
+  ],
+  "The Cityscapes": [
+    {
+      "The Sophisticated":"https://blckunicorn.art/assets/buwa/stable/images/70.jpg"
+    },
+    {
+      "The Wealthy":"https://blckunicorn.art/assets/buwa/stable/images/71.jpg"
+    },
+    {
+      "The Dreamy":"https://blckunicorn.art/assets/buwa/stable/images/72.jpg"
+    },
+    {
+      "The Idyllic":"https://blckunicorn.art/assets/buwa/stable/images/74.jpg"
+    },
+    {
+      "The Palaces":"https://blckunicorn.art/assets/buwa/stable/images/75.jpg"
+    },
+    {
+      "The Broken":"https://blckunicorn.art/assets/buwa/stable/images/76.jpg"
+    },
+    {
+      "The Quiet":"https://blckunicorn.art/assets/buwa/stable/images/78.jpg"
+    },
+    {
+      "The Lovely":"https://blckunicorn.art/assets/buwa/stable/images/79.jpg"
+    },
+    {
+      "The Pushers":"https://blckunicorn.art/assets/buwa/stable/images/82.jpg"
+    },
+    {
+      "The Bustling":"https://blckunicorn.art/assets/buwa/stable/images/83.jpg"
     }
   ]
 }
