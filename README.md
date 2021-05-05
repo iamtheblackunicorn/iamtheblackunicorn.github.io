@@ -12,7 +12,7 @@ This website is my personal website. On it, you can find information about me an
 
 You can use these APIs in your apps free of charge.
 
-## Unicorn Launcher
+### Unicorn Launcher
 
 This app contains two APIs:
 
@@ -44,7 +44,7 @@ https://blckunicorn.art/assets/unicornlauncher/api/quotes.json
 // Quote: value
 ```
 
-## Black Unicorn Wallpapers
+### Black Unicorn Wallpapers
 
 This API contains some beautiful wallpapers:
 
@@ -56,12 +56,13 @@ https://blckunicorn.art/assets/buwa/main/api/wallpapers.json
 - Fields:
 ```dart
 // Type: Map<String, dynamic>
-// Key: wallpaper index
-// Wallpaper URL: value[0]
-// Wallpaper description: value[1]
+// Key: Category name
+// Value: List of Map<String, dynamic>
+// Wallpaper name: Key of a list item.
+// Wallpaper URL: Value of a list item.
 ```
 
-## The Mansion
+### The Mansion
 
 This API contains a JSON API built in Jekyll for blogs:
 
@@ -81,7 +82,7 @@ https://blckunicorn.art/content/api/
 // Post cover image: value[4]
 ```
 
-## Haute Couture
+### Haute Couture
 
 This API contains some information the most prominent fashion designers of our time:
 
