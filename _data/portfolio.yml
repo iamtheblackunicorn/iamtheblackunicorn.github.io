@@ -28,3 +28,6 @@
 - name: "Sec Info"
   image: "/assets/screenies/secinfo.jpg"
   url: "https://github.com/iamtheblackunicorn/secinfo"
+- name: "gen-r"
+  image: "/assets/screenies/gen-r.jpg"
+  url: "https://github.com/iamtheblackunicorn/gen-r"
