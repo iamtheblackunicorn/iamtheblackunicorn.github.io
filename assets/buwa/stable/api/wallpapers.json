@@ -251,6 +251,9 @@
     },
     {
       "The Iconic":"https://blckunicorn.art/assets/buwa/stable/images/89.jpg"
+    },
+    {
+      "The Models": "https://blckunicorn.art/assets/buwa/stable/images/94.jpg"
     }
   ],
   "The Cityscapes": [
@@ -283,6 +286,17 @@
     },
     {
       "The Bustling":"https://blckunicorn.art/assets/buwa/stable/images/83.jpg"
+    }
+  ],
+  "The Creators": [
+    {
+      "The Classic": "https://blckunicorn.art/assets/buwa/stable/images/91.png"
+    },
+    {
+      "The Strong": "https://blckunicorn.art/assets/buwa/stable/images/92.png"
+    },
+    {
+      "The Scary": "https://blckunicorn.art/assets/buwa/stable/images/93.jpg"
     }
   ]
 }
