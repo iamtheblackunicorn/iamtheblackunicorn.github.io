@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://blckunicorn.art/assets/images/logo/newBanner.png"/>
+</p>
+
 # The Black Unicorn :unicorn: :black_heart:
 
 [![GitHub CI](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/iamtheblackunicorn/iamtheblackunicorn.github.io/actions)
