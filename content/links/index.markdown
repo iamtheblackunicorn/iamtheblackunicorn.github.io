@@ -5,7 +5,6 @@ title: "Links and Info"
 
 ## My (social) links
 
-- Support me on Patreon: [Visit](https://patreon.com/iamtheblackunicorn)
 - Upwork: [Visit]()
 - GitHub: [Visit](https://github.com/iamtheblackunicorn)
 - Twitter: [Visit](https://twitter.com/blvckuncrn)
