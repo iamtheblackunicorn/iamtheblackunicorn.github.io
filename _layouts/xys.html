@@ -1,44 +1,42 @@
 {
-  "en":{
+  "en":
   {% for quote in site.data.quotes %}
    {% if site.data.quotes.last == quote %}
-     [
-       "{{ quote.author }}",
-       "{{ quote.quote_en }}",
-       "{{ quote.question_en }}",
-       "{{ quote.answer_options }}",
-       "{{ quote.correct_option }}"
-     ]
+   [
+     "{{ quote.author }}",
+     "{{ quote.quote_en }}",
+     "{{ quote.question_en }}",
+     "{{ quote.answer_options }}",
+     "{{ quote.correct_option }}"
+   ]
    {% else %}
-     [
-       "{{ quote.author }}",
-       "{{ quote.quote_en }}",
-       "{{ quote.question_en }}",
-       "{{ quote.answer_options }}",
-       "{{ quote.correct_option }}"
-     ],
+   [
+     "{{ quote.author }}",
+     "{{ quote.quote_en }}",
+     "{{ quote.question_en }}",
+     "{{ quote.answer_options }}",
+     "{{ quote.correct_option }}"
+   ],
    {% endif %}
   {% endfor %}
-  },
-  "de":{
+  "de":
   {% for quote in site.data.quotes %}
    {% if site.data.quotes.last == quote %}
-     [
-       "{{ quote.author }}",
-       "{{ quote.quote_de }}",
-       "{{ quote.question_de }}",
-       "{{ quote.answer_options }}",
-       "{{ quote.correct_option }}"
-     ]
+   [
+     "{{ quote.author }}",
+     "{{ quote.quote_de }}",
+     "{{ quote.question_de }}",
+     "{{ quote.answer_options }}",
+     "{{ quote.correct_option }}"
+   ]
    {% else %}
-     [
-       "{{ quote.author }}",
-       "{{ quote.quote_de }}",
-       "{{ quote.question_de }}",
-       "{{ quote.answer_options }}",
-       "{{ quote.correct_option }}"
-     ]
+   [
+     "{{ quote.author }}",
+     "{{ quote.quote_de }}",
+     "{{ quote.question_de }}",
+     "{{ quote.answer_options }}",
+     "{{ quote.correct_option }}"
+   ]
    {% endif %}
   {% endfor %}
-  }
 }
