@@ -1,5 +1,5 @@
 {
-  "en":
+  "en": [
   {% for quote in site.data.quotes %}
    {% if site.data.quotes.last == quote %}
    [
@@ -19,7 +19,8 @@
    ],
    {% endif %}
   {% endfor %}
-  "de":
+  ]
+  "de": [
   {% for quote in site.data.quotes %}
    {% if site.data.quotes.last == quote %}
    [
@@ -39,4 +40,5 @@
    ]
    {% endif %}
   {% endfor %}
+  ]
 }
