@@ -10,7 +10,7 @@ title: "Links and Info"
 - Twitter: [Visit](https://twitter.com/blvckuncrn)
 - My profile on [pub.dev](https://pub.dev): [Visit](https://pub.dev/publishers/blckunicorn.art/packages)
 - My Google Play Developer profile: [Visit](https://play.google.com/store/apps/dev?id=5142030120720845233)
-- Instagram: [Visit](https://instagram.com/dukealexanderthefirst)
+- Chat with me Keybase.io: [Visit](https://keybase.io/blvckuncrn)
 
 ## About this website
 
