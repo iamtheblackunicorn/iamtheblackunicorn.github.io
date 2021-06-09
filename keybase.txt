@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/blvckuncrn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blckunicorn.art
+  * I am blvckuncrn (https://keybase.io/blvckuncrn) on keybase.
+  * I have a public key with fingerprint 60CB E9B8 FFA7 FAD3 842E  E106 CF3B DEBE FC1A 8589
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101997188cee9f21fc77b6f88d1231a46fff587beef0b0471d65f4c27896759f6e60a",
+      "fingerprint": "60cbe9b8ffa7fad3842ee106cf3bdebefc1a8589",
+      "host": "keybase.io",
+      "key_id": "cf3bdebefc1a8589",
+      "kid": "0101997188cee9f21fc77b6f88d1231a46fff587beef0b0471d65f4c27896759f6e60a",
+      "uid": "04edcee880212f27237335b4f9f87519",
+      "username": "blvckuncrn"
+    },
+    "service": {
+      "hostname": "blckunicorn.art",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1623238908,
+  "expire_in": 157680000,
+  "prev": "a9b0f8f836c31634e04300e36214ba3651452c8e4ecc0dd87f7712cbf87b6ef8",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJbSBVBGMePppUnjHrogl2oJbqKzex19oCVGNkFgooKRDrtzM7opu2e
+dvecLiL4EEXki4TdkPAhulB0saCOSWX4YJQdKhJNCimyLMzoQbObzXZ76rF5Geab
+//f7/t/H15o9KhRO+7Smvqf/5JWhtHst9fHQ1ttnvlYK2DF3C5FKoZz+vGiFST0/
+Wm6ZQkQAEEBd1yBChFKdiZARTcMqQ8iEogQNWWWMKUjDlDKAgaxBU1WYTEQN6aqm
+6EylKjCEXIFZdil1Y65l+xyrAoKpjhFjhsYMU0KySCkEKmESNimmjEADKUjniWWO
+F2Rwc9jwaJ7l8Bh/RH/a+4f+P/uO/8LJ1OQghIAIRSZqoqRJkoJlpjOkKTCoG/eo
+axvbKVfjigQpj9vEtYWqXIHHExahwWiDXv5qAolFHNfOM1yfA2Ku4zvEqeCfZb4f
+8yJBsr87Fqh3Uhz9zYliyzb5MHlGgrqe5dhCBHIl8a0ADFVREiWkA5Qr0F0xy6VR
+K1AomooAP0EdmuBIQ8eAIYYklUhQlWQKZAkAKqkilLEhqQqUFZEgKlNCgGkijWka
+FAnmDWOVMiQEne2wHSEic5tGKUd6Vqlt+HGXClV3bpdkhNLCodGZ6cGShcJZE/6s
+3rPOMcNpzete+gf1bddy3uXUmY2vR9rTv6WuFjfNH10zcPHOvhmnGubf6NPTNzrv
+5Wlz8o8f6She24IQe7h03LeSlXhDXkm8t2j525rLeyaeGOl8vyNW3VHyPDyUzClM
+na6a9sW70rRl7YeGyUsLxhysBjPzi5Obol/utr26kHx1tH950d774y9NbzhdO33u
+5nUP6KbrB44sOTv18aLmcR8ntc9+sczW8x+1DSbfXOt593nF6qH2cHi4YvHTGyM3
+Bwu7upuEW+cyMvTUlNqCmoEut2/86+TdRHfrJX2RV5fyr3elemctyCre55B5qzKP
+7V9/+Mn2ST2NF1LZdeeHFzbmjHw/1AsK+rSxPwAyUFIc
+=nKKc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/blvckuncrn
+
+==================================================================
