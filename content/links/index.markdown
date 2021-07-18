@@ -10,7 +10,7 @@ title: "Links and Info"
 - My profile on [pub.dev](https://pub.dev): [Visit](https://pub.dev/publishers/blckunicorn.art/packages)
 - My Google Play Developer profile: [Visit](https://play.google.com/store/apps/dev?id=5142030120720845233)
 - Chat with me on Keybase.io: [Visit](https://keybase.io/blvckuncrn)
-- My highly experimental blog: [Visit](https://blvckuncrn.pythonanywhere.com)
+- My Instagram: [Visit](https://instagram.com/dukealexanderthefirst)
 
 ## About this website
 
